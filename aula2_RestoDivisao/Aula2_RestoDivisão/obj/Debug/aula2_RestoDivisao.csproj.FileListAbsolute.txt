@@ -1,0 +1,10 @@
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\bin\Debug\Aula2_RestoDivisão.exe.config
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\bin\Debug\Aula2_RestoDivisão.exe
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\bin\Debug\Aula2_RestoDivisão.pdb
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\aula2_RestoDivisao.csprojAssemblyReference.cache
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.frmRestoDivisao.resources
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.Properties.Resources.resources
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\aula2_RestoDivisao.csproj.GenerateResource.cache
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\aula2_RestoDivisao.csproj.CoreCompileInputs.cache
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.exe
+D:\Etec\Valeria\att-09-5\aula2_RestoDivisao\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.pdb

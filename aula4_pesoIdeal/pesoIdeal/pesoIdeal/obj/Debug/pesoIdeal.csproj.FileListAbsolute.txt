@@ -1,0 +1,15 @@
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\bin\Debug\pesoIdeal.exe.config
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\bin\Debug\pesoIdeal.exe
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\bin\Debug\pesoIdeal.pdb
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.csprojAssemblyReference.cache
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.Form1.resources
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.Properties.Resources.resources
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.csproj.GenerateResource.cache
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.exe
+C:\Users\street\Desktop\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.pdb
+D:\Etec\Valeria\att-09-5\aula4_pesoIdeal\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.csprojAssemblyReference.cache
+D:\Etec\Valeria\att-09-5\aula4_pesoIdeal\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.Form1.resources
+D:\Etec\Valeria\att-09-5\aula4_pesoIdeal\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.csproj.GenerateResource.cache
+D:\Etec\Valeria\att-09-5\aula4_pesoIdeal\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.exe
+D:\Etec\Valeria\att-09-5\aula4_pesoIdeal\pesoIdeal\pesoIdeal\obj\Debug\pesoIdeal.pdb

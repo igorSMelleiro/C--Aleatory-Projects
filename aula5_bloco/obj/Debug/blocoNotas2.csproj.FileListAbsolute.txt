@@ -1,0 +1,5 @@
+D:\Etec\Valeria\att-09-5\aula5_bloco\obj\Debug\blocoNotas2.csprojAssemblyReference.cache
+D:\Etec\Valeria\att-09-5\aula5_bloco\obj\Debug\blocoNotas2.Form1.resources
+D:\Etec\Valeria\att-09-5\aula5_bloco\obj\Debug\blocoNotas2.Properties.Resources.resources
+D:\Etec\Valeria\att-09-5\aula5_bloco\obj\Debug\blocoNotas2.csproj.GenerateResource.cache
+D:\Etec\Valeria\att-09-5\aula5_bloco\obj\Debug\blocoNotas2.csproj.CoreCompileInputs.cache

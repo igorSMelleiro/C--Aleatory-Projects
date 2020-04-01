@@ -1,0 +1,10 @@
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\bin\Debug\calcular.exe.config
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\bin\Debug\calcular.exe
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\bin\Debug\calcular.pdb
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\calcular.Form1.resources
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\calcular.Properties.Resources.resources
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\troco.csproj.GenerateResource.cache
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\troco.csproj.CoreCompileInputs.cache
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\calcular.exe
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\calcular.pdb
+D:\Etec\Valeria\att-09-5\aula7_troco\calcular\obj\Debug\troco.csprojAssemblyReference.cache

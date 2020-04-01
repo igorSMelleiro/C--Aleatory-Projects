@@ -1,0 +1,10 @@
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\bin\Debug\Aula2_RestoDivisão.exe.config
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\bin\Debug\Aula2_RestoDivisão.exe
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\bin\Debug\Aula2_RestoDivisão.pdb
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.csprojAssemblyReference.cache
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.frmRestoDivisao.resources
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.Properties.Resources.resources
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.csproj.GenerateResource.cache
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.exe
+C:\Users\lab_street\source\repos\Aula2_RestoDivisão\Aula2_RestoDivisão\obj\Debug\Aula2_RestoDivisão.pdb

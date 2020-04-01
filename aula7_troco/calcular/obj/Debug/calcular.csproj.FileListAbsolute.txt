@@ -1,0 +1,10 @@
+C:\Users\lab_street\Desktop\calcular\calcular\bin\Debug\calcular.exe.config
+C:\Users\lab_street\Desktop\calcular\calcular\bin\Debug\calcular.exe
+C:\Users\lab_street\Desktop\calcular\calcular\bin\Debug\calcular.pdb
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.csprojAssemblyReference.cache
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.Form1.resources
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.Properties.Resources.resources
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.csproj.GenerateResource.cache
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.csproj.CoreCompileInputs.cache
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.exe
+C:\Users\lab_street\Desktop\calcular\calcular\obj\Debug\calcular.pdb
